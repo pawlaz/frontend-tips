@@ -1,1 +1,5 @@
-# frontend-tips
+# Frontend-tips
+Сборная солянка из полезных мелочей
+
+Проекты:
+* `СircularMenu` - Круговое меню на css
